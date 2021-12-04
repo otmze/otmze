@@ -9,4 +9,4 @@ otmze/otmze is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/otmze/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/otmze/AoC/HEAD)
